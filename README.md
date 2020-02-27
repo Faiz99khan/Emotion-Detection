@@ -16,6 +16,7 @@ FER-2013 dataset which was published on International Conference on Machine Lear
  click [here](requirements.txt) to show dependencies 
 
 ## Dataset
+* This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions - angry, disgust, fear, happy, neutral, sad and surprise.
 * download the fer2013 dataset from [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 ## License
